@@ -16,7 +16,6 @@
 ### 🚀 Sobre mí
 
 Soy un **Desarrollador FullStack ** con pasión por crear aplicaciones web modernas, escalables y centradas en la experiencia de usuario.  
-Me muevo cómodamente tanto en el **frontend (React, CSS, UX/UI)** como en el **backend (Node.js, Express, MongoDB)**.  
 
 🎯 Mi objetivo es seguir creciendo como desarrollador, aplicando buenas prácticas, código limpio y arquitectura eficiente en cada proyecto.  
 
