@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Antonio+MBA+NZANG.;Desarrollador+FullStack+JavaScript.;Apasionado+por+la+tecnolog%C3%ADa;y+el+aprendizaje+continuo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+soy+Antonio+MBA+NZANG.;Desarrollador+Aplicaciones+Multiplataforma.;Apasionado+por+la+tecnolog%C3%ADa;y+el+aprendizaje+continuo!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 React | Node.js | Express | MongoDB | Frontend + Backend 💻</h3>
