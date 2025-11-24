@@ -49,8 +49,11 @@ Soy un **Desarrollador FullStack ** con pasión por crear aplicaciones web moder
 🔹 **[Portafolio Personal](https://portafolio-mba.vercel.app)**  
 Sitio web que reúne mis proyectos y trayectoria profesional. Desarrollado con HTML, CSS, JS y desplegado en **Vercel**.
 
-🔹 **Gestor de Tareas (MERN)**  
-Aplicación completa con autenticación JWT, operaciones CRUD y frontend en **React + Context API**.
+🔹 **Guinea Ventas (https://guineaventas.netlify.app)**  
+GuineaVentas
+🚀 En Vivo
+📱 APK Android
+Plataforma de comercio electrónico para Guinea Ecuatorial que conecta vendedores locales con compradores, facilitando transacciones seguras y entregas eficientes. Incluye sistema de pagos, gestión de inventario y panel de administración..
 
 🔹 **App de Clima**  
 App creada con **React** que consume una **API REST externa (OpenWeather)** mostrando datos dinámicos y una UI moderna.
